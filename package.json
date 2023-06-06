@@ -1,0 +1,19 @@
+{
+  "name": "chegg-crackers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree/libnut-linux": "^2.4.1",
+    "@nut-tree/nut-js": "^3.0.0",
+    "firebase": "^9.17.1",
+    "puppeteer": "^19.6.3",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
